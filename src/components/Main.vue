@@ -4,9 +4,10 @@
 </template>
 
 <script>
+import './../styles/main.sass'
 
 export default {
-  name: 'App',
+  name: 'Main',
   components: {
     
   }
