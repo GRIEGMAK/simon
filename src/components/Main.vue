@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import './../styles/main.sass'
+import '@/styles/main.sass'
 
 export default {
   name: 'Main',

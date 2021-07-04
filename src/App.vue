@@ -6,6 +6,7 @@
 
 <script>
 import Main from './components/Main.vue'
+import './styles/app.sass'
 
 export default {
   name: 'App',
